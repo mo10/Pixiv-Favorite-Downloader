@@ -1,7 +1,11 @@
 # Pixiv-favorite-download
 
-Use pip for installing:
-
+###Install pixivpy
 ~~~
 pip install pixivpy
+~~~
+
+###Usage
+~~~
+python main.py
 ~~~
