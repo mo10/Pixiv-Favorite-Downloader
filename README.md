@@ -11,8 +11,9 @@ If you are Windows
 python win-downloader.py
 ~~~
 
-If you are Linux`Not tested`
+If you are Linux
 ~~~
+#Not tested
 python linux-downloader.py
 ~~~
 
