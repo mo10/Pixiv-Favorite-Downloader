@@ -1,5 +1,5 @@
 # Pixiv Favorite Downloader
-
+Tested on Python2.7
 ###Install pixivpy
 ~~~
 pip install pixivpy
