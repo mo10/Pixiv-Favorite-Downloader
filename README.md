@@ -1,20 +1,12 @@
 # Pixiv Favorite Downloader
-Tested on Python2.7
+Tested on Python3.6
 ###Install pixivpy
 ~~~
 pip install pixivpy
 ~~~
 
 ###Usage
-If you are Windows
-~~~
-python win-downloader.py
-~~~
+先编辑main.py,修改里面的`user`变量和`pwd`变量的值,填写你的Pixiv账号密码,保存运行即可
 
-If you are Linux
-~~~
-#Not tested
-python linux-downloader.py
-~~~
-
-You need to enter your `user name` and `password`,then enter the save location
+####关于 max_thread 变量
+`max_thread`变量用于限制下载线程数量,理论上这个变量值越大下载速度快,当然我不清楚连接数太多会不会被Ban.自己看着改吧,默认值为`32`
