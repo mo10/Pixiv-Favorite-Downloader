@@ -1,5 +1,5 @@
 # Pixiv Favorite Downloader
-Tested on Python3.6
+Tested on Python3.6 似乎不支持Python2.7
 ###Install pixivpy
 ~~~
 pip install pixivpy
